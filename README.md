@@ -4,7 +4,7 @@ Welcome to **Quantum Loans**, your gateway to unlocking the potential of your cr
 
 ---
 
-# 🎉 **First Place Winner** 🏆 – We're proud to announce that **Quantum Loans** won first place in our recent competition!
+# 🎉 **First Place Winner** 🏆 – We're proud to announce that **Quantum Loans** won 1st place at HackFin!
 ## Access the demo video here - [Quamtum Loans Demo Video](https://www.youtube.com/watch?v=nQ28joUHcSc&embeds_referring_euri=https%3A%2F%2Fdevpost.com%2F&source_ve_path=MjM4NTE)
 
 ---
